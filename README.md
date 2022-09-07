@@ -25,7 +25,6 @@ ________________
 For the people who want to know:
     🖥 My current favorite games are: League of Legends and CSGO 
 
-
 ```
 
 ## 📚Knowledge is Power
