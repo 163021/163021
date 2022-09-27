@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ssionn_)
-[![dev.page](dev.page/Ssionn)
+![Dev.Page](https://img.shields.io/badge/Dev.Page-FF8800?style=for-the-badge&logo=dev.page&logoColor=white)
 
 </div>
 
