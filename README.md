@@ -8,6 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ssionn_)
+[![dev.page](dev.page/Ssionn)
 
 </div>
 
@@ -93,7 +94,7 @@ I love to work with people around me and help them as much as I can!
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b>dev.page, Linkedin and Twitter.</li>
 	</ul>	
 </details>
 
