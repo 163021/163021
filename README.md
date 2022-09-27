@@ -86,7 +86,7 @@ I love to work with people around me and help them as much as I can!
 </details>
 
 <details>
-<summary><b>🔧 Things I use on a daily basis</b></summary>
+<summary><b>🔧 Things I use in a work/school week</b></summary>
 <br>
 <ul>
   	    <li><b>OS:</b> MacOS Monterey 12.6</li>
