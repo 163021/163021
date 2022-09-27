@@ -21,7 +21,7 @@ I love to work with people around me and help them as much as I can!
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" width="375" height="250" align="right" />
 
 
-### Personal Life:
+### Summary:
 - 💻 <b>Currently</b> in my second year as a student in the Bit-Academy
 - 📝 <b>I have </b> a strong interest in Web Developement
 - 🌱 <b>Love</b> learning about Computer's
