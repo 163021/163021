@@ -1,34 +1,42 @@
-<h1 align="center">
-Hi, My name is Casper Kizewski 👋
-</h1>
+## Hey 👋, I'm [Casper Kizewski!](https://github.com/Ssionn/)
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A600F7&center=true&vCenter=true&width=435&lines=Wanting+to+learn+more;Web+Development+%7C+Data-Engineering;Aspiring+Developer" alt="Typing SVG" /></p>
 
-
 <hr/>
+<div style="display:flex; flex-direction:row;">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ssionn_)
+
+</div>
+
+### Welcome to my github page! 
+
+I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm an enthousiastic learner and always tries to improve. In my eyes Teamwork and Results are important.
+
+I love to work with people around me and help them as much as I can!
+
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" width="375" height="250" align="right" />
+
+
+### Personal Life:
+- 💻 <b>Currently</b> in my second year as a student in the Bit-Academy
+- 📝 <b>I have </b> a strong interest in Web Developement
+- 🌱 <b>Love</b> learning about Computer's
+- 🌟 <b>Main languages</b>: Python, JavaScript, PHP and many more
+- ✍️ <b> Hobby's</b> are playing games and coding
+
+###  <b>Favorite games</b>:
+- League of Legends
+- Counter Strike: Global-Offensive
+- Apex Legends
+- Hell let loose
 <br>
-<img src="https://gpvc.arturio.dev/160321" alt="Profile views" align='left'/>
-<br><br><br>
+<br>
 
-```
-Casper Kizewski
-________________
-
-💻 Currently in my second year as a student in the Bit-Academy
-📝 I have a strong interest in Web Developement
-🌱 Love learning about Computer's
-🌟 Main languages: Python, JavaScript, PHP and many more
-✍️ Hobby's are playing games and coding
-
-
-For the people who want to know:
-    🖥 My current favorite games are: League of Legends and CSGO 
-
-```
-
-## 📚Knowledge is Power
-
+<details>
+<summary><b>📚 Knowledge</b></summary>
 <br>
 
 ### 🧰Currently working with
@@ -54,30 +62,38 @@ For the people who want to know:
 
 </div>
 
-### 🛠Frameworks
+### 🛠Frameworks + Software and tools
 
 <div style="display:flex; flex-direction:row;">
 <img class="avatar" alt="tailwindlabs" src="https://avatars.githubusercontent.com/u/67109815?s=88&amp;v=4" width="44" height="44">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" /> </a>
-</div>
-
-### 💻 Software and Tools
-
-<div style="display:flex; flex-direction:row;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_vscode.svg" height="32" width="32"></a>
 </div>
 
-<br><br>
+</details>
 
-## Connect with me!
 
-<div style="display:flex; flex-direction:row;">
-<a  href="https://www.linkedin.com/in/casper-kiżewski-318587217/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-</div>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSsionn&labelColor=%23f47373&countColor=%23263759)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssionn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
 
+<details>
+<summary><b>🔧 Things I use on a daily basis</b></summary>
+<br>
+<ul>
+  	    <li><b>OS:</b> MacOS Monterey 12.6</li>
+	    <li><b>Laptop: </b> M1 Macbook Pro 13" 8gb</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
+	</ul>	
+</details>
 
