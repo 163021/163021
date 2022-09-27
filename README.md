@@ -19,7 +19,7 @@ ________________
 📝 I have a strong interest in Web Developement
 🌱 Love learning about Computer's
 🌟 Main languages: Python, JavaScript, PHP and many more
-✍️ Hobby's are playing Gaming and Coding
+✍️ Hobby's are playing games and coding
 
 
 For the people who want to know:
