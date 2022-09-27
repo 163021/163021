@@ -91,7 +91,7 @@ I love to work with people around me and help them as much as I can!
 <ul>
   	    <li><b>OS:</b> MacOS Monterey 12.6</li>
 	    <li><b>Laptop: </b> M1 Macbook Pro 13" 8gb</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Brave, Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b>dev.page, Linkedin and Twitter.</li>
