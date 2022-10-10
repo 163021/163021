@@ -31,8 +31,6 @@ I love to work with people around me and help them as much as I can!
 ###  <b>Favorite games</b>:
 - League of Legends (Good mental)
 - Counter Strike: Global-Offensive
-- Apex Legends
-- Hell let loose
 <br>
 <br>
 
