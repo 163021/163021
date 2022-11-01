@@ -93,7 +93,7 @@ I love to work with people around me and help them as much as I can!
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b>dev.page, Linkedin and Twitter.</li>
-	    <li><b>Professional:</b>Tabspecialist</li>
+	    <li><b>Github Copilot</b></li>
 	</ul>	
 </details>
 
