@@ -41,7 +41,6 @@ I love to work with people around me and help them as much as I can!
 ### 🧰Currently working with
 
 <div style="display:flex; flex-direction:row;">
-<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fcopilot&psig=AOvVaw2HfFqQuTaFGZtWA_zzd2KL&ust=1667384162136000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKiiuJfgjPsCFQAAAAAdAAAAABAO" alt="copilot" width="40" height="40" /> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
@@ -94,6 +93,7 @@ I love to work with people around me and help them as much as I can!
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b>dev.page, Linkedin and Twitter.</li>
+	    <li><b>Professional:</b>Tabspecialist</li>
 	</ul>	
 </details>
 
