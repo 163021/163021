@@ -14,7 +14,7 @@
 
 ### Welcome to my github page! 
 
-I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm an enthusiastic learner and always tries to improve. In my eyes Teamwork and Results are important.
+I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm an enthusiastic learner and always try to improve. In my eyes Teamwork and Results are important.
 
 I love to work with people around me and help them as much as I can!
 
