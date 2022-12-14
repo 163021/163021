@@ -25,7 +25,7 @@ I love to work with people around me and help them as much as I can!
 - 💻 <b>Currently</b> in my second year as a student in the Bit-Academy
 - 📝 <b>I have </b> a strong interest in Web Developement
 - 🌱 <b>Love</b> learning about Computers
-- 🌟 <b>Main languages</b>: Python, JavaScript, PHP and many more
+- 🌟 <b>Main languages</b>: PHP, Python and more
 - ✍️ <b> Hobby's</b> are playing games and coding
 
 ###  <b>Favorite games</b>:
