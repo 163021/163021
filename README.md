@@ -8,8 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ssionn2_)
-[![Dev.Page](https://img.shields.io/badge/Dev.Page-6a52ef?style=flat-square&logo=dev.page&logoColor=white)](https://dev.page/Ssionn)
-
+	
 </div>
 
 ### Welcome to my github page! 
