@@ -29,7 +29,7 @@ I love to work with people around me and help them as much as I can!
 - ✍️ <b> Hobby's</b> are playing games and coding
 
 ###  <b>Favorite games</b>:
-- League of Legends (Good mental)
+- League of Legends
 - Counter Strike: Global-Offensive
 <br>
 <br>
