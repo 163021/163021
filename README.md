@@ -27,6 +27,7 @@ I love to work with people around me and help them as much as I can!
 - 🌟 <b>Main languages</b>: PHP, Python and more
 - ✍️ <b> Hobby's</b> are playing games and coding
 
+<br><br>
 
 <details>
 <summary><b>📚 Knowledge</b></summary>
