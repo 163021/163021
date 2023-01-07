@@ -50,13 +50,6 @@ I love to work with people around me and help them as much as I can!
 </div>
 <br>
 
-### 🕰Wanting to learn
-
-<div style="display:flex; flex-direction:row;">
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="40" height="40" class="d-block rounded-2 mr-3 flex-shrink-0" alt="ruby logo"></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
-
 </div>
 
 ### 🛠Frameworks + Software and tools
