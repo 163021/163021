@@ -82,7 +82,7 @@ I love to work with people around me and help them as much as I can!
 	    <li><b>Laptop: </b> M1 Macbook Pro 13" 8gb</li>
   	    <li><b>Browser: </b> Firefox</li>
 	    <li><b>Terminal: </b> ZSH: Warp</li>
-	    <li><b>Code Editor:</b> PHPStorm w/ new UI</li>
+	    <li><b>Code Editor:</b> PHPStorm w/ new UI, Webstorm w/ new UI</li>
 	    <li><b>To Stay Updated:</b> Linkedin, Twitter</li>
 	</ul>	
 </details>
