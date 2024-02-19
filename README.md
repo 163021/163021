@@ -1,86 +1,52 @@
-## Hey 👋, I'm [Casper Kizewski!](https://github.com/Ssionn/)
-<br>
+# Casper Kizewski - Software Developer
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A600F7&center=true&vCenter=true&width=435&lines=Wanting+to+learn+more;Web+Development+%7C+Data-Engineering;Aspiring+Developer" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Mono+Nerd&pause=1000&color=9E79E1&random=false&width=435&lines=Developing+web+applications+with+PHP.;Master+Laravel+and+Symfony+framework.;Design+responsive%2C+user-friendly+interfaces.;Recursion%3A+see+Recursion.;PHP%3A+where+strings+become+arrays." alt="Typing SVG" />
+</p>
 
-<hr/>
-<div style="display:flex; flex-direction:row;">
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
-	
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ssionn)
+
 </div>
 
-### Welcome to my github page! 
+## 🚀 Welcome to My Digital Space!
 
-I'm currently studying Software Development from [Horizon College](https://www.horizoncollege.nl/). I'm an enthusiastic learner and always try to improve. In my eyes Teamwork and Results are important.
+As a budding Software Developer from [Horizon College](https://www.horizoncollege.nl/), I thrive on turning complex problems into simple, beautiful, and intuitive solutions. With a spirit for teamwork and an eye for detail, I'm on a mission to make the digital world a better place, one line of code at a time.
 
-I love to work with people around me and help them as much as I can!
+### 💼 About Me:
 
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" width="375" height="250" align="right" />
+- 🎓 **Current Adventure:** Navigating through my third year at Bit-Academy.
+- 🛠 **Tech Toolbox:** Proficient with PHP, exploring Laravel & Symfony.
+- 🌱 **Always Learning:** Eager to absorb knowledge on the latest tech trends and tools.
+- 🎮 **Beyond Coding:** Gaming enthusiast and Coding hobbyist.
 
+### 🌟 Highlighted Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,symfony,tailwindcss,docker,git,mysql,neovim,regex&theme=dark&perline=4)](https://skillicons.dev)
 
-### Summary:
-- 💻 <b>Currently</b> in my third year as a student in the Bit-Academy
-- 📝 <b>I have </b> a strong interest in Web Developement
-- 🌱 <b>Love</b> learning about Computers
-- 🌟 <b>Main languages</b>: PHP, Python and more
-- ✍️ <b> Hobby's</b> are playing games and coding
+### 📝 IDE's i've used:
 
-<br><br>
+[![PHPStorm Badge](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+### 📫 Connect With Me:
+
+Let's make the digital world more dynamic together! If you're interested in collaborations or just want to chat about technology and innovation, don't hesitate to connect with me on [LinkedIn](https://linkedin.com/in/ssionn).
 
 <details>
-<summary><b>📚 Knowledge</b></summary>
-<br>
-	
-### ✍️Learning right now
-<div style="display:flex; flex-direction:row;">
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
-	<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40" /> </a>
-	<a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-</div>
-
-### 🧰Currently working with
-
-<div style="display:flex; flex-direction:row;">
-	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-</div>
-<br>
-</div>
-
-### 🛠Frameworks + Software and tools
-
-<div style="display:flex; flex-direction:row;">
-	<img class="avatar" alt="tailwindlabs" src="https://avatars.githubusercontent.com/u/67109815?s=88&amp;v=4" width="44" height="44">
-	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo">
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-	<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" /> </a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_vscode.svg" height="32" width="32"></a>
-</div>
-
-</details>
-
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ GitHub Analytics</b></summary>
+  <div align="center">
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSsionn&labelColor=%23f47373&countColor=%23263759)
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssionn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  ![Ssionn's Stats](https://github-readme-stats.vercel.app/api?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+  ![Ssionn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ssionn&theme=midnight-purple&hide_border=true)
+  ![Ssionn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+  
+  </div>
 </details>
 
-<details>
-<summary><b>🔧 Things I use in a work/school week</b></summary>
-<br>
-<ul>
-  	    <li><b>OS:</b> MacOS Sonoma</li>
-	    <li><b>Laptop: </b> M1 Macbook Pro 13" 8gb</li>
-	    <li><b>To Stay Updated:</b> Linkedin </li>
-	</ul>	
-</details>
+### 🛠️ My Workspace:
 
+- **🖥 OS:** [macOS Sonoma](https://www.apple.com/nl/macos/sonoma/)
+- **💻 Laptop:** [M1 MacBook Pro 13"](https://www.apple.com/nl/shop/product/FYD92N/A/refurbished-133-inch-macbook-pro-apple-m1-chip-8%E2%80%91core-cpu-en-8%E2%80%91core-gpu-spacegrijs)
+- **📚 Resources:** Staying ahead with LinkedIn.
