@@ -37,10 +37,11 @@ Let's make the digital world more dynamic together! If you're interested in coll
 <details>
   <summary><b>⚡ GitHub Analytics</b></summary>
   <div align="center">
-
-  <div style="display:flex; flex-direction:row;">
     
   ![Ssionn's Stats](https://github-readme-stats.vercel.app/api?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+  <div align="right">
+    
   ![Ssionn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ssionn&theme=midnight-purple&hide_border=true)
       
   </div>
