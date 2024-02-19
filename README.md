@@ -37,8 +37,12 @@ Let's make the digital world more dynamic together! If you're interested in coll
 <details>
   <summary><b>⚡ GitHub Analytics</b></summary>
   <div align="center">
-    
+  
+  <div align="left">
+  
   ![Ssionn's Stats](https://github-readme-stats.vercel.app/api?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+  </div>
 
   <div align="right">
     
@@ -46,7 +50,11 @@ Let's make the digital world more dynamic together! If you're interested in coll
       
   </div>
 
+  <div align="left">
+    
   ![Ssionn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+  </div>
   
   </div>
 </details>
