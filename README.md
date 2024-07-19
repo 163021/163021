@@ -1,34 +1,40 @@
-# Casper Kizewski - Software Developer
+# 💻️ Ssionn
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Mono+Nerd&pause=1000&color=9E79E1&random=false&width=435&lines=Developing+web+applications+with+PHP.;Master+Laravel+and+Symfony+framework.;Design+responsive%2C+user-friendly+interfaces.;Recursion%3A+see+Recursion.;PHP%3A+where+strings+become+arrays." alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=EB8DF7&width=435&lines=Developing+web+applications+with+PHP;Designing+responsive%2C+user-friendly+interfaces;Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ssionn)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/ssionn/" style="margin-right: 10px;" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Ssionn2_" style="margin-right: 10px;" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
+  </a>
 </div>
 
-## 🚀 Welcome to My Digital Space!
+---
 
-As a budding Software Developer from [Horizon College](https://www.horizoncollege.nl/), I thrive on turning complex problems into simple, beautiful, and intuitive solutions. With a spirit for teamwork and an eye for detail, I'm on a mission to make the digital world a better place, one line of code at a time.
+<img src="https://github.com/user-attachments/assets/b1934b11-9f68-4d08-bde5-8fea11579c4f" width="575" height="auto" align="right" />
 
-### 💼 About Me:
+### 🚀 Welcome to My Digital Space!
 
-- 🎓 **Current Adventure:** Navigating through my third year at Bit-Academy.
-- 🛠 **Tech Toolbox:** Proficient with PHP, exploring Laravel & Symfony.
-- 🌱 **Always Learning:** Eager to absorb knowledge on the latest tech trends and tools.
-- 🎮 **Beyond Coding:** Gaming enthusiast and Coding hobbyist.
+Passionate PHP developer specializing in Laravel and Symfony. I craft elegant solutions to complex problems, always eager to learn and apply new technologies. Gaming enthusiast and tech hobbyist, I'm on a mission to create intuitive digital experiences that push boundaries.
 
 ### 🌟 Highlighted Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,symfony,tailwindcss,docker,git,mysql,neovim,regex&theme=dark&perline=4)](https://skillicons.dev)
 
 ### 📝 IDE's i've used:
 
-[![PHPStorm Badge](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+<a href="https://neovim.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="44" width="44" />
+</a>
 
-[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+<a href="https://www.jetbrains.com/phpstorm/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="44" width="44" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="44" width="44" />
+</a>
 
 ### 📫 Connect With Me:
 
@@ -39,8 +45,10 @@ Let's make the digital world more dynamic together! If you're interested in coll
     
   <div align="center">
   
-  | ![Ssionn's Stats](https://github-readme-stats.vercel.app/api?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) | ![Ssionn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ssionn&theme=midnight-purple&hide_border=true) | ![Ssionn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) |
-  |---|---|---|
+  ![Ssionn's Stats](https://github-readme-stats.vercel.app/api?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+  ![Ssionn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ssionn&theme=midnight-purple&hide_border=true)
+  ![Ssionn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssionn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ssionn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -49,6 +57,8 @@ Let's make the digital world more dynamic together! If you're interested in coll
 
 ### 🛠️ My Workspace:
 
-- **🖥 OS:** [macOS Sonoma](https://www.apple.com/nl/macos/sonoma/)
+- **🖥 OS:**
+    - [macOS Sonoma](https://www.apple.com/nl/macos/sonoma/)
+    - <a href="https://archcraft.io/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 - **💻 Laptop:** [M1 MacBook Pro 13"](https://www.apple.com/nl/shop/product/FYD92N/A/refurbished-133-inch-macbook-pro-apple-m1-chip-8%E2%80%91core-cpu-en-8%E2%80%91core-gpu-spacegrijs)
 - **📚 Resources:** Staying ahead with LinkedIn.
