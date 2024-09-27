@@ -58,7 +58,7 @@ Let's make the digital world more dynamic together! If you're interested in coll
 ### 🛠️ My Workspace:
 
 - **🖥 OS:**
-    - [macOS Sonoma](https://www.apple.com/nl/macos/sonoma/)
+    - [macOS Sequoia](https://www.apple.com/nl/macos/macos-sequoia/)
     - <a href="https://archcraft.io/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-- **💻 Laptop:** [M1 MacBook Pro 13"](https://www.apple.com/nl/shop/product/FYD92N/A/refurbished-133-inch-macbook-pro-apple-m1-chip-8%E2%80%91core-cpu-en-8%E2%80%91core-gpu-spacegrijs)
+- **💻 Laptop:** [M1 MacBook Pro 14" 16GB 512GB](https://support.apple.com/nl-nl/111902)
 - **📚 Resources:** Staying ahead with LinkedIn.
