@@ -17,7 +17,7 @@
 
 ### 🚀 Welcome to My Digital Space!
 
-Passionate PHP developer specializing in Laravel and Symfony. I craft elegant solutions to complex problems, always eager to learn and apply new technologies. Gaming enthusiast and tech hobbyist, I'm on a mission to create intuitive digital experiences that push boundaries.
+I do back-end, i guess.
 
 ### 🌟 Highlighted Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,symfony,tailwindcss,docker,git,mysql,neovim,regex&theme=dark&perline=4)](https://skillicons.dev)
@@ -38,7 +38,7 @@ Passionate PHP developer specializing in Laravel and Symfony. I craft elegant so
 
 ### 📫 Connect With Me:
 
-Let's make the digital world more dynamic together! If you're interested in collaborations or just want to chat about technology and innovation, don't hesitate to connect with me on [LinkedIn](https://linkedin.com/in/ssionn).
+If you're interested in collaborations or just want to chat about technology and innovation, don't hesitate to connect with me on [LinkedIn](https://linkedin.com/in/ssionn).
 
 <details>
   <summary><b>⚡ GitHub Analytics</b></summary>
